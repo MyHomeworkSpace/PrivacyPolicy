@@ -27,3 +27,10 @@ Our service, ("DaltonTab") collects data from the user. None of this data is tra
 The DaltonTab team disclaims all responsibility for data leaks or losses. It is your responsibility to update yourself on this policy, as you may not be notified of changes. If you wish to purge all of your information from our servers, or have any additional questions about this policy, or DaltonTab in general, you can contact us at [hello@myhomework.space](mailto:hello@myhomework.space) and we will do our best to help you.
 
 As always, thank you for using DaltonTab!
+
+---
+
+## Revision History
+
+**January 4th, 2017**
+Added Original Policy
