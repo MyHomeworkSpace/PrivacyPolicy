@@ -35,3 +35,6 @@ As always, thank you for using DaltonTab!
 
 **January 4th, 2017**
 Added Original Policy
+
+**February 2nd, 2017**
+Added survey information
