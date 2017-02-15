@@ -1,5 +1,6 @@
 ---
 layout: post
+product: DaltonTab
 title: DaltonTab Privacy Policy
 ---
 

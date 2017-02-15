@@ -4,17 +4,35 @@ layout: default
 
 <div class="home">
 
-  <h2 class="page-heading">Policies</h2>
+  <h2 class="page-heading">MyHomeworkSpace</h2>
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        
+      {% if post.product == "MyHomeworkSpace" %}
+        <li>
+          
 
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&#45;&nbsp;<small><span class="post-meta">Last updated {{ post.date | date: "%b %-d, %Y" }}</span></small>
-        </h3>
-      </li>
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&#45;&nbsp;<small><span class="post-meta">Last updated {{ post.date | date: "%b %-d, %Y" }}</span></small>
+          </h3>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2 class="page-heading">DaltonTab</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.product == "DaltonTab" %}
+        <li>
+          
+
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&#45;&nbsp;<small><span class="post-meta">Last updated {{ post.date | date: "%b %-d, %Y" }}</span></small>
+          </h3>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
