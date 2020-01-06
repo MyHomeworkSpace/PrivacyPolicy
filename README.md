@@ -1,3 +1,2 @@
-# PrivacyPolicy
-###### [![Created by the MyHomeworkSpace Team](https://img.shields.io/badge/Created%20by-MyHomeworkSpace%20Team-3698dc.svg)](https://github.com/MyHomeworkSpace)
-A privacy policy website because if we include it in MyHomeworkSpace/client then we cant change it without poking myhomeworkspace.
+# legal
+This repository used to contain Privacy Policies for MyHomeworkSpace and DaltonTab. Those documents have moved [here](https://github.com/MyHomeworkSpace/support/tree/master/legal), and this repository is archived.
